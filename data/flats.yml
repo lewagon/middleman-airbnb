@@ -1,0 +1,18 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  rating: 5
